@@ -1,2 +1,3 @@
 Hello world
-i'm doing a cal bootcamp
+I'm doing a stanford bootcamp
+>>>>>>> 9c17b723080aff0925bb4e609496aa0688d56130
